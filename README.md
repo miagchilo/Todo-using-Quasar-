@@ -1,19 +1,20 @@
 # quasar todo (todo-app)
 
-A Quasar Framework app
+Приложение с использованием Quasar Framework. 
+Это просто приложение для создания заметок с функцией создания и удаления заметок , написанное на Vue и Quasar.
 
-## Install the dependencies
+## Интсрукция по установке. Install the dependencies 
 ```bash
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Инструкция по запуску версии разработчика.Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
 ```
 
 
-### Build the app for production
+### Инструкция по запуску продакшн версии. Build the app for production
 ```bash
 quasar build
 ```
